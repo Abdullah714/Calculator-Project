@@ -1,5 +1,5 @@
 # Calculator-Project
-##Description
+## Description
 This is a calculator application for performing simple functions.
-###Author
+### Author
 Mohamed Abdullahi
